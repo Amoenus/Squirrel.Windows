@@ -4,6 +4,8 @@
 ![](docs/artwork/Squirrel-Logo.png)
 
 # Squirrel: It's like ClickOnce but Works™
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows?ref=badge_shield)
+
 
 Squirrel is both a set of tools and a library, to completely manage both installation and updating your Desktop Windows application, written in either C# or any other language (i.e., Squirrel can manage native C++ applications).
 
@@ -49,3 +51,6 @@ See [COPYING](COPYING) for details on copyright and usage of the Squirrel.Window
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows?ref=badge_large)

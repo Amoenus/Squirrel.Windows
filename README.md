@@ -8,6 +8,8 @@ We are looking for help with maintaining this important project - please read th
 ---
 
 # Squirrel: It's like ClickOnce but Works™
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows?ref=badge_shield)
+
 
 ![](docs/artwork/Squirrel-Logo.png)
 
@@ -57,3 +59,6 @@ See [COPYING](COPYING) for details on copyright and usage of the Squirrel.Window
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAmoenus%2FSquirrel.Windows?ref=badge_large)
